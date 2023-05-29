@@ -1,0 +1,23 @@
+body{
+  background: #201b2c;
+ 
+}
+h1{
+  justify-content: center;
+  display: flex;
+  color: blue;
+}
+h3{
+  justify-content: center;
+  display: flex;
+  color: white;
+}
+img{
+  border-radius: 50px;
+}
+
+li {
+display: inline-block;
+margin: 30px;
+font: 1.2em "Fira Sans", sans-serif;
+}
